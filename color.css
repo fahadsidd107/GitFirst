@@ -1,0 +1,28 @@
+/* h1 {
+    color: blueviolet; */
+    /* background-color: rgb(77, 156, 65); */
+/* background-color: hsl(100, 76%, 52%); */
+/* opacity: 0.5;
+background-color: darkblue;
+text-align: center;
+} */
+
+.heading {
+    color: rgb(0, 170, 170);
+    background-color: rgba(187, 142, 28, 0.836);
+    text-align: end;
+}
+.li1 {
+    color: rgb(147, 0, 221);
+    background-color: rgb(77, 150, 224);
+    text-align: center;
+}
+.li2{
+    color: deeppink;
+    background-color: rgb(165, 211, 97);
+    text-align: right;
+}
+p{
+    color: indigo;
+    background-color: indianred;
+}
